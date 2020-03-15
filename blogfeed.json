@@ -3,11 +3,7 @@
 	"posttext": "If you’d like to follow along with the simpler examples in this tutorial, you can also run them in various online code playgrounds.\n\nCodePen, for example, has Pug support baked right in. Simply create a new pen, then select Settings > HTML and choose Pug as your preprocessor. This will allow you to enter Pug code into the HTML pane and see the result appear in real time.\n\nAs an added bonus, you can click on the down arrow in the HTML pane and select View Compiled HTML to see the markup that Pug has generated.",
 	"feedgroup": [
 		{
-			"posttitle": " ",
-			"posttext": "If you’d like to follow along with the simpler examples in this tutorial, you can also run them in various online code playgrounds.\n\nCodePen, for example, has Pug support baked right in. Simply create a new pen, then select Settings > HTML and choose Pug as your preprocessor. This will allow you to enter Pug code into the HTML pane and see the result appear in real time.\n\nAs an added bonus, you can click on the down arrow in the HTML pane and select View Compiled HTML to see the markup that Pug has generated."
-		},
-		{
-			"posttitle": "This should be the same as above",
+			"posttitle": "This is the first post",
 			"posttext": "If you’d like to follow along with the simpler examples in this tutorial, you can also run them in various online code playgrounds.\n\nCodePen, for example, has Pug support baked right in. Simply create a new pen, then select Settings > HTML and choose Pug as your preprocessor. This will allow you to enter Pug code into the HTML pane and see the result appear in real time.\n\nAs an added bonus, you can click on the down arrow in the HTML pane and select View Compiled HTML to see the markup that Pug has generated."
 		}
 	]
